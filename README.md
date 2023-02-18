@@ -8,6 +8,7 @@ Hi there, I'm Ron a <b> front-end developer </b> <br /> Currently am learning ba
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rontim&hide=prs&show_icons=true&theme=dracula&include_all_commits=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rontim&theme=dracula&hide_border=false)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rontim&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rontim&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
