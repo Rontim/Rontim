@@ -8,7 +8,59 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
     <summary>
         🏆🎖 Badges, trophies & certifications:
     </summary>
-
+    <br><br>
+   <div align="center"> 
+        <a href="https://www.credly.com/badges/b36a294f-cd5a-44f8-8af3-35daf24b7c82/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" 
+                alt="Machine Learning Foundation Micro-Credential" 
+                width="130"
+                mar
+            />
+        </a>
+       <a href="https://www.credly.com/badges/b36a294f-cd5a-44f8-8af3-35daf24b7c82/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/f952f075-87e6-4241-ba10-7d568ca7a3b7/image.png" 
+                alt="Alteryx Designer Core Micro-Credential: Data Transformation" 
+                width="130"
+            />
+        </a>
+       <a href="https://www.credly.com/badges/b36a294f-cd5a-44f8-8af3-35daf24b7c82/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" 
+                alt="Machine Learning Foundation Micro-Credential" 
+                width="130"
+            />
+        </a>
+       <a href="https://www.credly.com/badges/986f9eb4-b634-4d0c-8d6e-a19bf49a87a1/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/e180e067-93e5-4262-b811-9d58414339a5/image.png" 
+                alt="Alteryx Designer Core Micro-Credential: Data Manipulation" 
+                width="130"
+            />
+        </a>
+       <a href="https://www.credly.com/badges/f73fcfe9-a4fe-42ca-939b-11b2f1736143/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/a18fc3ad-56c7-4533-b6da-c4bd8478cb41/image.png" 
+                alt="Alteryx Designer Core Micro-Credential: General Knowledge" 
+                width="130"
+            />
+        </a>
+       <a href="https://www.credly.com/badges/dedd7f4b-362c-48d2-aba2-93a12f1032b0/public_url">
+            <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" 
+                alt="Alteryx Foundational Micro-Credential" 
+                width="130"
+            />
+        </a>
+   </div>
+<br></br>
 </details>
 <br>
 
@@ -33,9 +85,6 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
 
 </details>
 <br>
-
-## My Github Stats:
-
 <details open="">
     <summary>
     📔 GitHub Stats:
@@ -65,9 +114,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
         </a>
     </p>
 </detail>
-
-### ✍️ Random Dev Quote
-
+<br>
 <details align="centre">
     <summary>
         Quote of the day:
