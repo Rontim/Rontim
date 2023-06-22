@@ -68,14 +68,12 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
 
 ### ✍️ Random Dev Quote
 
-<detail open="">
+<details align="centre">
     <summary>
         Quote of te day:
     </summary>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-    ---
+</details>
 
 [![](https://visitcount.itsvg.in/api?id=Rontim&icon=0&color=0)](https://visitcount.itsvg.in)
-</detail>
