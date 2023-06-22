@@ -4,7 +4,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
 
 ## My current skills:
 
-<details align="left">
+<details align="left" open="">
     <summary>
         🏆🎖 Badges, trophies & certifications:
     </summary>
