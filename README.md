@@ -70,7 +70,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
 
 <details align="centre">
     <summary>
-        Quote of te day:
+        Quote of the day:
     </summary>
     <br>
     <p align="center">
