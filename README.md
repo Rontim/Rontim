@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Caveat&weight=1000&size=30&duration=4000&pause=500&color=760000&center=true&width=435&lines=Hi+there!;+My+name+is+Ron+Gitonga!;A+passionate+developer+;&;A+computer+science+enthusiate;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Caveat&weight=1000&size=30&duration=4000&pause=500&color=760000&center=true&width=500&lines=Hi+there!;+My+name+is+Ron+Gitonga!;A+passionate+developer+;+And+;+A+computer+science+enthusiate++;)](https://git.io/typing-svg)
 
 Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degree course in computer science. With my expertise in web development and my knowledge of computer science principles, I am able to approach problems from both a practical and theoretical standpoint.
 
@@ -72,8 +72,14 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
     <summary>
         Quote of te day:
     </summary>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    <br>
+    <p align="center">
+        <img align="center" 
+            height="250px"  
+            src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" 
+            width="50%"
+        />
+    </p>
 </details>
 
 [![](https://visitcount.itsvg.in/api?id=Rontim&icon=0&color=0)](https://visitcount.itsvg.in)
