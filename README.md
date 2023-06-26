@@ -109,7 +109,8 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
         <a href="https://app.daily.dev/rontim">
             <img             
                 src="https://api.daily.dev/devcards/ff0d5a826ec94e2bac3b8a04533168f3.png?r=fqi" 
-                width="400" 
+                width="300"
+                height="400px"
                 alt="Ron Gitonga's Dev Card"
                 align="center"
                 margin = "2px"
