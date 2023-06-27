@@ -9,7 +9,15 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
         🏆🎖 Badges, trophies & certifications:
     </summary>
     <br><br>
-   <div align="center"> 
+   <div align="center">
+       <a href="https://www.credly.com/badges/5826ca06-2221-47ae-a467-9ea31400f94e/public_url">
+           <img 
+                align="center" 
+                src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
+                alt="Microsoft Certified: Azure Fundamentals" 
+                width="130"
+            />
+       </a>
         <a href="https://www.credly.com/badges/b36a294f-cd5a-44f8-8af3-35daf24b7c82/public_url">
             <img 
                 align="center" 
