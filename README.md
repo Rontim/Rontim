@@ -114,15 +114,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
             width="49.5%"/>
         </a>
         <br><br>
-        <a href="https://app.daily.dev/rontim">
-            <img             
-                src="https://api.daily.dev/devcards/ff0d5a826ec94e2bac3b8a04533168f3.png?r=fqi" 
-                width="300"
-                height="400px"
-                alt="Ron Gitonga's Dev Card"
-                align="center"
-                margin = "2px"
-            />
+        
         </a>
         <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=Rontim&theme=radical&border=7F3FBF&background=0D1117" alt="Rontim"/>
