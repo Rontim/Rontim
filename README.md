@@ -114,7 +114,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
             width="49.5%"/>
         </a>
         <br><br>
-        
+        <a>
         </a>
         <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=Rontim&theme=radical&border=7F3FBF&background=0D1117" alt="Rontim"/>
