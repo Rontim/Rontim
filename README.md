@@ -123,7 +123,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rontim&theme=radical" alt="Rontim"/>
         </a>
         <br><br>
-        <img align="centre" src="https://github-profile-trophy.vercel.app/?username=Rontim&theme=monokai&row=2&column=6" alt="Rontim Trophies" height="192px"/>
+        <img align="centre" src="https://github-profile-trophy.vercel.app/?username=Rontim&theme=monokai&row=2&column=6&title=MultiLanguage,Repositories,Commits,Followers,PullRequest,Experience" alt="Rontim Trophies" height="192px"/>
     </p>
 </detail>
 
