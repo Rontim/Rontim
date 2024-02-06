@@ -122,10 +122,11 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
         <a href="https://github.com/Rontim">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rontim&theme=radical" alt="Rontim"/>
         </a>
+        <br><br>
+        <img align="centre" src="https://github-profile-trophy.vercel.app/?username=Rontim&theme=monokai&row=2&column=6" alt="Rontim Trophies" height="192px"/>
     </p>
 </detail>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rontim&theme=monokai&row=2&column=3)]
 
 <br>
 <details align="centre">
