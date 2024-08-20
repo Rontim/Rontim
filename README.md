@@ -106,7 +106,7 @@ Feel free to explore my work and connect!
         <a href="https://github.com/Rontim">
             <img align="center"  
             height="175px" 
-            src="https://github-readme-stats.vercel.app/api?username=Rontim&show_icons=true&theme=transparent&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866" 
+            src="https://my-github-stats-one.vercel.app/api?username=Rontim&show_icons=true&theme=transparent&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866" 
             height="192px" 
             width="49.5%"/>
         </a>
