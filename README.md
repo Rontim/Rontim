@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Caveat&weight=1000&size=30&duration=4000&pause=500&color=760000&center=true&width=550&lines=Hi+there!;+My+name+is+Ron+Gitonga!;A+passionate+developer+;+And+;+A+computer+science+enthusiast++;)](https://git.io/typing-svg)
 
-Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degree course in computer science. With my expertise in web development and my knowledge of computer science principles, I am able to approach problems from both a practical and theoretical standpoint.
+Hi there, I'm Ron! 👋
+
+I'm passionate about coding and software development. I love bringing ideas to life and being part of positive change through technology. Whether it's creating innovative solutions or contributing to impactful projects, I'm always excited to make things happen.
+
+Feel free to explore my work and connect!
 
 ## My current skills:
 
@@ -102,7 +106,7 @@ Hi there, I'm Ron <br /> I am a full stack developer and I am also doing a degre
         <a href="https://github.com/Rontim">
             <img align="center"  
             height="175px" 
-            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rontim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+            src="https://github-readme-stats.vercel.app/api?username=Rontim&show_icons=true&theme=transparent&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866" 
             height="192px" 
             width="49.5%"/>
         </a>
