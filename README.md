@@ -118,10 +118,10 @@ me.say_hi()
 
 <div align="center">
 <a href="https://github.com/Rontim/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rontim&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rontim&repo=flexiCart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/Rontim/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rontim&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rontim&repo=MyEvents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF" />
 </a>
 </div>
 
